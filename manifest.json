@@ -1,6 +1,4 @@
 {
- "background_color": "#000000",
- "name": "criptosports",
  "icons": [
   {
    "type": "image/png",
@@ -38,7 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "name": "criptosports",
  "theme_color": "#000000",
  "start_url": "index.htm",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "background_color": "#000000"
 }
